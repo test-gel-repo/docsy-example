@@ -7,8 +7,8 @@ enableRobotsTXT = true
 # theme = ["docsy"]
 
 [module]
-[[module.imports]]
-   path = "github.com/google/docsy@geriom-module-support"
+[module.imports]
+   path = "github.com/google/docsy"
 
 # Will give values to .Lastmod etc.
 enableGitInfo = true
