@@ -3,7 +3,7 @@ Undercloud_service = ""
 date = ""
 description = "Undercloud service"
 draft = true
-linkTitle = "Undercloud service"
+linkTitle = ""
 
 +++
 Создание инфраструктуры для разработки
