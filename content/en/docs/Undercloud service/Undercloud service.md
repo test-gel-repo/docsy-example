@@ -1,9 +1,9 @@
 +++
-Undercloud_service = ""
+Undercloud_service = "Undercloud service"
 date = ""
-description = "Undercloud service"
+description = ""
 draft = true
-linkTitle = ""
+linkTitle = "Undercloud service"
 
 +++
 Создание инфраструктуры для разработки
