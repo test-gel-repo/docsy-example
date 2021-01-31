@@ -1,5 +1,5 @@
 +++
-Undercloud_service = "Undercloud service"
+Undercloud_service = ""
 date = ""
 description = "Undercloud service"
 draft = true
